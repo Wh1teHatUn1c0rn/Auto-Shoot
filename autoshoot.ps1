@@ -1,4 +1,3 @@
-# T1/T2/T3 Automated Troubleshooting Script
 # Author: [Vuk Markovic]
 
 # Function: Install Prerequisites
