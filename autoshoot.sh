@@ -1,6 +1,5 @@
 #!/bin/bash
-# T1/T2/T3 Automated Troubleshooting Script for Linux
-# Author: [Your Name]
+# Author: [Vuk Markovic]
 
 # Function: Install Prerequisites
 install_prerequisites() {
